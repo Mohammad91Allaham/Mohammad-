@@ -1,0 +1,12 @@
+
+.reciepe-description {
+    display: inline-block;
+    position: absolute;
+    top:auto;
+    left:auto
+}
+
+.reciepe-photo {
+    display: inline-block;
+
+}
